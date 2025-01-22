@@ -1,5 +1,5 @@
 .basic, 
-.cool-basic {
+.cool {
     color: #000000;
     background-color: #FA0000 ;
     font-family: Verdana, "DejaVu Sans", sans-serif;
@@ -9,6 +9,6 @@
 
 }
 
-.cool-basic {
+.cool {
    font-size: 24px; 
 }
