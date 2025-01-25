@@ -1,0 +1,17 @@
+.element-type-01,
+.element-type-02 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.element-type-01
+    {
+        color: white;
+        background-color: black;
+    }
+
+.element-type-02
+    {
+        color: yellow;
+        background-color: black;
+    }
